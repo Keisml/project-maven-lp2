@@ -8,7 +8,6 @@
 	<name>projeto_Maven</name>
 	<description>primeiro projeto com maven</description>
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
